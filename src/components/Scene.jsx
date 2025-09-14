@@ -17,7 +17,7 @@ const Scene = () => {
           color: 'white'
         }}
       >
-        created by <a href="https://www.gobinda-das.dev/">gobinda</a> here's the <a href="">repo</a>
+        created by <a href="https://www.gobinda-das.dev/">gobinda</a> here's the <a href="https://github.com/gobinda-das-dev/falling-stars">repo</a>
       </p>
     </div>
   )
